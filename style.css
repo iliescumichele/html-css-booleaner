@@ -48,3 +48,46 @@ thead{
 .table_row_top_bottom{
   background-color: #b0e4f198;
 }
+
+table{
+  border-spacing: 0px;
+}
+
+.table_left{
+  width: 25%;
+  text-align: left;
+}
+
+.table_middle{
+  width: 25%;
+  text-align: left;
+}
+
+.table_right{
+  width: 50%;
+  text-align: left;
+}
+
+footer>p{
+  color: #8d8d8d;
+  font-size: larger;
+  margin-bottom: 5px;
+}
+
+#image_link1{
+  color: white;
+  text-align: left;
+  font-size: x-large;
+  background-image: url(img/monitor.jpg);
+  width: 312px;
+  height: 208px;
+}
+
+#image_link2{
+  color: white;
+  text-align: left;
+  font-size: x-large;
+  background-image: url(img/graph.jpg);
+  width: 312px;
+  height: 208px;
+}
