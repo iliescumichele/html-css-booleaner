@@ -1,0 +1,50 @@
+nav{
+  background-color: #4ea0ff;
+  background-image: url(img/pattern.png);
+  background-size: 25%;
+  height: 80px;
+}
+
+#logo{
+  height: 50px;
+  margin-top: 32px;
+}
+
+.author{
+  font-size: 15px;
+  color: #8d8d8d;
+  line-height: .5px;
+}
+
+#author_name{
+  color: #1ca8e4;
+}
+
+#date_publishment{
+  color: #8d8d8d;
+  font-size: small;
+}
+
+#picture_description{
+  font-size: small;
+  line-height: 2px;
+  margin-bottom: 50px;
+}
+
+.main_text{
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.evidenziato{
+  background-color: #ffff00;
+}
+
+thead{
+  background-color: #20a9e5;
+  color: #ffffff;
+}
+
+.table_row_top_bottom{
+  background-color: #b0e4f198;
+}
